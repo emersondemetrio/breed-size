@@ -14,7 +14,7 @@ Rode o comando:
 `node parser`
 Isso criará o arquivo /output/data.json, que será usado no
 
-## Passo 2
+## Passo 3
 
 Rode o comando:
 
@@ -22,7 +22,6 @@ Rode o comando:
 
 Que irá criar o arquivo /output/BATCH.sql
 
-## Passo 3 
-
+## Passo 4
 
 Em seu SGBD favorito, importe a estrutura (treino.sql) e em seguida, os dados em /output/BATCH.sql
