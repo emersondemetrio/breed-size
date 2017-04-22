@@ -1,0 +1,26 @@
+{
+  "name": "breed-size",
+  "version": "1.0.0",
+  "description": "\"Simple breed-size calc\"",
+  "main": "run.js",
+  "scripts": {
+    "test": "//not yet"
+    "start" : "node /.run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersondemetrio/breed-size.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Emerson Demetrio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emersondemetrio/breed-size/issues"
+  },
+  "homepage": "https://github.com/emersondemetrio/breed-size#readme",
+  "dependencies": {
+    "babyparse": "^0.4.6"
+  }
+}
