@@ -1,6 +1,11 @@
 # breed-size
 Breed Size Calc
 
+## O que isso faz?
+
+- Primeiro, converte os dados de treino no arquivo train.csv para json, facilitando o manuseio. A conversão é feita utilizando a lib babyparse, que tem justamente este fim.
+- Em seguida, o programa anda linha por linha atrás dos dados que posteriormente serão adicionados a um arquivo .sql, para por fim serem trabalhados.
+
 ## Passo 1 
 
 Rode o comando: 
