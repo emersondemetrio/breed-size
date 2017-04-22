@@ -4,8 +4,8 @@
   "description": "\"Simple breed-size calc\"",
   "main": "run.js",
   "scripts": {
-    "test": "//not yet"
-    "start" : "node ./parser.js"
+    "test": "//not yet",
+    "start": "node parser"
   },
   "repository": {
     "type": "git",
