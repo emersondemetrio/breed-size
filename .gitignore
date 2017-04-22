@@ -36,4 +36,5 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-output/*
+output/data.json
+output/BATCH.sql
