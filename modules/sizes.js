@@ -1,3 +1,5 @@
+// baseado em 
+// http://www.blogdocachorro.com.br/porte-que-tamanho-meu-cachorro-vai-ficar/#prettyphoto[6547]/1/
 module.exports = [{
 	"sizeV"     : 1,
 	"name"		: "pequeno",
