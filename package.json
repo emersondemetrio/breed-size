@@ -5,7 +5,7 @@
   "main": "run.js",
   "scripts": {
     "test": "//not yet"
-    "start" : "node /.run.js"
+    "start" : "node ./parser.js"
   },
   "repository": {
     "type": "git",
