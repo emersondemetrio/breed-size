@@ -10,7 +10,7 @@ Breed Size Calc
 
 Rode o comando: 
 
-`node install`
+`npm install`
 
 ## Passo 2
 
