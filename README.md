@@ -23,7 +23,7 @@ Isso criará o arquivo /output/data.json, que será usado no
 
 Rode o comando:
 
-`node createSqlFile`
+`node sqlFileCreator`
 
 Que irá criar o arquivo /output/BATCH.sql
 
